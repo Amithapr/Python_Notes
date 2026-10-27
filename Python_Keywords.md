@@ -42,13 +42,13 @@ async	Defines asynchronous code
 await	Waits for an asynchronous operation
 
 3. Example Program
-
+'''python
 age = 25
 if age >= 18:
     print("Eligible to vote")
 else:
     print("Not eligible to vote")
-
+'''
 Output
 
 Eligible to vote
