@@ -6,9 +6,10 @@ Keywords cannot be used as ordinary variable names.
 2. Common Python Keywords
 
 Keyword	Purpose
-if	Checks a condition
-else	Executes an alternative block
-elif	Checks another condition
+
+1. if	Checks a condition
+2. else	Executes an alternative block
+3. elif	Checks another condition
 for	Repeats statements over a sequence
 while	Repeats statements while a condition is true
 break	Terminates a loop
