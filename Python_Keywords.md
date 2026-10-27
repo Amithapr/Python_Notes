@@ -10,37 +10,39 @@ Keyword	Purpose
 1. if	Checks a condition
 2. else	Executes an alternative block
 3. elif	Checks another condition
-for	Repeats statements over a sequence
-while	Repeats statements while a condition is true
-break	Terminates a loop
-continue	Skips to the next loop iteration
-pass	Acts as a placeholder
-def	Defines a function
-return	Returns a value from a function
-class	Defines a class
-import	Imports a module
-from	Imports specific names from a module
-True	Represents a Boolean true value
-False	Represents a Boolean false value
-None	Represents the absence of a value
-and	Logical AND
-or	Logical OR
-not	Logical NOT
-in	Checks membership
-is	Checks object identity
-try	Starts exception-handling code
-except	Handles an exception
-finally	Runs cleanup code
-with	Manages a context, such as opening a file
-as	Assigns an alias or binds a value
-lambda	Creates a small anonymous function
-global	Refers to a global variable
-nonlocal	Refers to a variable in an enclosing function
-assert	Checks a condition and raises an error if it fails
-del	Deletes a reference or item
-yield	Produces a value from a generator
-async	Defines asynchronous code
-await	Waits for an asynchronous operation
+4. for	Repeats statements over a sequence
+5. while	Repeats statements while a condition is true
+6. break	Terminates a loop
+7. continue	Skips to the next loop iteration
+8. pass	Acts as a placeholder
+9. def	Defines a function
+10. return	Returns a value from a function
+11. class	Defines a class
+12. import	Imports a module
+13. from	Imports specific names from a module
+14. True	Represents a Boolean true value
+15. False	Represents a Boolean false value
+16. None	Represents the absence of a value
+17. and	Logical AND
+18. or	Logical OR
+19. not	Logical NOT
+20. in	Checks membership
+21. is	Checks object identity
+22. try	Starts exception-handling code
+23. except	Handles an exception
+24. finally	Runs cleanup code
+25. with	Manages a context, such as opening a file
+26. as	Assigns an alias or binds a value
+27. lambda	Creates a small anonymous function
+28. global	Refers to a global variable
+29. nonlocal	Refers to a variable in an enclosing function
+30. assert	Checks a condition and raises an error if it fails
+31. del	Deletes a reference or item
+32. yield	Produces a value from a generator
+33. async	Defines asynchronous code
+34. await	Waits for an asynchronous operation
+
+
 
 3. Example Program
 '''python
