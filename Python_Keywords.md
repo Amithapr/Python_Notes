@@ -40,11 +40,9 @@ Keyword	Purpose
 31. del	Deletes a reference or item
 32. yield	Produces a value from a generator
 33. async	Defines asynchronous code
-34. await	Waits for an asynchronous operation
+34. await	Waits for an asynchronous operation.
 
-
- 
- 
+    
  3. Example Program
 '''python
 age = 25
