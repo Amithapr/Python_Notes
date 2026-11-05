@@ -44,7 +44,7 @@
     employee name= "amitha" (Spaces are not allowed)
     class="python" ( class is a keyword)
 
-# Data Types#
+# Data Types #
 
 # what are date types in python?
     A data type defines the type of value stored in a variable.
