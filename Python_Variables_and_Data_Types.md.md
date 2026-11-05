@@ -14,9 +14,11 @@
     we can create a variable by assigning a value using the assignment operator(=)
 
 ** syntax:
+
     variable_name = value
 
 ** Example:
+
     City = "Banglore"
     Age = 28
     Percentage = 80.5
