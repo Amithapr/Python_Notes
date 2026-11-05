@@ -33,7 +33,7 @@
     * Python 2 (2000)
     * Python 3 (2008)
 
-# 6. First Python Program
+# . First Python Program
 
       print("Hello, World!")
       
