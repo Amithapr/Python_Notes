@@ -51,9 +51,11 @@
  
  **Python provides different built-in data types to store different kinds of information.
  
- # 1) Numeric Data Types: it is used to store numbers.
+ # 1) Numeric Data Types:
+     it is used to store numbers.
     
- # 2) Integer(int): it stores whole numbers without decimal points.
+ # 2) Integer(int):
+     it stores whole numbers without decimal points.
 
 ** Python:
 
@@ -66,7 +68,8 @@
       28
       <class 'int'>>
       
-# 3) Float(float): A float stores numbers containing decimal points.
+# 3) Float(float): 
+    A float stores numbers containing decimal points.
    
 ** Python
 
@@ -81,7 +84,9 @@
      99.50
      <class 'float'>
 
-# 4) Complex (complex): A complex number contains a real part and an imaginary part
+# 4) Complex (complex): 
+
+    A complex number contains a real part and an imaginary part
 
 ** Python
 
@@ -94,7 +99,8 @@
      (5+3j)
      <class 'complex'>
      
-# 5) String(str): A string is a sequence of characters enclosed within single quotes, double quotes or triple quotes.
+# 5) String(str):
+    A string is a sequence of characters enclosed within single quotes, double quotes or triple quotes.
     strings are used to store text.
 
 ** Python
@@ -109,8 +115,10 @@
     Amitha
     <class 'str'>
 
-# 6)Boolean (bool): Boolean data types store only two values: True or False.
-     They are commonly used in conditional statements and decision-making.
+# 6)Boolean (bool):
+    Boolean data types store only two values: True or False.
+    
+    They are commonly used in conditional statements and decision-making.
 
 ** Python
 
